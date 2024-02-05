@@ -1,0 +1,24 @@
+{
+  "name": "express-api-mujer-digital",
+  "version": "1.0.0",
+  "description": "API created with ExpressJS for the G14 of Mujer Digital",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "api",
+    "express",
+    "node",
+    "javascript",
+    "mujer-digital"
+  ],
+  "author": "Angela Sifuentes <angela.devany.sifuentes@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.0.3"
+  }
+}
